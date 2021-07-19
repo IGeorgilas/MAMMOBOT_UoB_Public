@@ -11,3 +11,7 @@ To process the data from here in MATLAB go to the data processing folder and run
 
 The file "simscape_actuation_22_withmotor" is the model with the stepper motor as a driver. The length is inputted in here
 To process the data from this model go to the data processing folder and run "Data_compare_pressure_3"
+
+The coppyright for the file MAMMOBOT experiment set-up.PNG belongs to King's College London and the Robotics and Vision in Medicine Lab https://rvim.online.
+A version of the picture is featured in the paper: https://doi.org/10.1109/LRA.2021.3068676
+
